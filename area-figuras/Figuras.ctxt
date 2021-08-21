@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Figuras
+comment1.params=
+comment1.target=void\ getAreaCuadrado()
+comment2.params=
+comment2.target=void\ getAreaTriangulo()
+comment3.params=
+comment3.target=void\ getAreaRotonda()
+numComments=4
